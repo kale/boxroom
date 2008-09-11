@@ -1,0 +1,20 @@
+development:
+  adapter: mysql
+  database: boxroom
+  host: localhost
+  username: root
+  password: 
+
+test:
+  adapter: mysql
+  database: boxroom
+  host: localhost
+  username: root
+  password: 
+
+production:
+  adapter: mysql
+  database: boxroom
+  host: localhost
+  username: root
+  password: 
